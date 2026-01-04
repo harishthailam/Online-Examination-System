@@ -1,0 +1,63 @@
+body {
+  background-color: #f4f6f8;
+  font-family: Arial, sans-serif;
+}
+
+.result-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.result-card {
+  background: white;
+  width: 380px;
+  padding: 35px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+.result-card h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.score-box {
+  margin: 20px 0;
+}
+
+.score {
+  font-size: 36px;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.status {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.pass {
+  color: green;
+}
+
+.fail {
+  color: red;
+}
+
+.back-btn {
+  padding: 12px 25px;
+  font-size: 16px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.back-btn:hover {
+  background: #0056b3;
+}
