@@ -60,7 +60,7 @@ Online-Examination-System/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/Online-Examination-System.git
+git clone https://github.com/harishthailam/Online-Examination-System.git
 
 2️⃣ Navigate to project folder
 cd Online-Examination-System
